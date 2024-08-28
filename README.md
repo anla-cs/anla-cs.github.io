@@ -3,21 +3,21 @@
 A simple academic template that is easy to deploy on Github page, and relatively
 easy to customize using css. You can find the [live](https://simongravelle.github.io/) version, and my resume [here](https://simongravelle.github.io/files/resume/resume-simon-gravelle.pdf).
 
-## Overview
+# Overview
 
 
-## Credit
+### Credit
 
 This template was originally taken from [wowchemy](https://wowchemy.com/), with some custom css
 adapted from [nickballousite](https://github.com/nballou) webpage.
 
-### Build locally
 
-To build locally on your computer, type:
+### How to set up
 
-```bash
-hugo server
-```
+After cloning this repository:
+
+- Settings/Pages/Build and Deployment: Choose deploy from actions. This step will generate a brach called gh-pages
+- Settings/Pages/Build and Deployment: Choose deploy from branch gh-pages/(root).
 
 ### How to modify
 
