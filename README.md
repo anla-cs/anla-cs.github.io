@@ -6,12 +6,12 @@ easy to customize using css. You can find the [live](https://simongravelle.githu
 ## Overview
 
 
-## Credit
+### Credit
 
 This template was originally taken from [wowchemy](https://wowchemy.com/), with some custom css
 adapted from [nickballousite](https://github.com/nballou) webpage.
 
-## Build locally
+### Build locally
 
 To build locally on your computer, type:
 
@@ -19,7 +19,7 @@ To build locally on your computer, type:
 hugo server
 ```
 
-## How to modify
+### How to modify
 
 After cloning this repository, you can adapt it by:
 
