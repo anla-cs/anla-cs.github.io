@@ -18,7 +18,7 @@ role: Research assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UMass Amherst
+  - name: UMass Amherst/Theory Group
     url: https://groups.cs.umass.edu/theory/
 
 # Short bio (displayed in user profile at end of posts)
@@ -47,6 +47,9 @@ social:
     link: <link>
     display:
       header: true
+  # - icon: email
+  #   icon_pack: fab
+  #   link: mailto:anla@umass.edu
   - icon: cv
     icon_pack: ai
     link: <link>
@@ -59,7 +62,7 @@ highlight_name: true
 
 <about me>
 
-**Open source and outreach activities**
+**Publications**
 
 <source>
 
