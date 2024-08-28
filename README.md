@@ -16,8 +16,8 @@ adapted from [nickballousite](https://github.com/nballou) webpage.
 
 After cloning this repository:
 
-- Settings/Pages/Build and Deployment: Choose deploy from actions. This step will generate a brach called gh-pages. Update anything to build the project.
-- Settings/Pages/Build and Deployment: Choose deploy from branch gh-pages/(root).
+- Settings/Pages/Build and Deployment: Choose deploy from actions. This step will generate a brach called gh-pages. Update anything (such as README.md) to build the project.
+- Settings/Pages/Build and Deployment: Choose deploy from branch gh-pages/(root). Update anything (such as README.md) to build the project.
 
 ### How to modify
 
