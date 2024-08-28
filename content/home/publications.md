@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: pages
 
 # This file represents a page section.
@@ -33,3 +33,4 @@ design:
   view: citation
   columns: '2'
 ---
+ -->
