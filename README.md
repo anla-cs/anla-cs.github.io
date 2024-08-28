@@ -6,7 +6,7 @@ easy to customize using css. You can find the [live](https://simongravelle.githu
 ## Overview
 
 
-### Credit
+## Credit
 
 This template was originally taken from [wowchemy](https://wowchemy.com/), with some custom css
 adapted from [nickballousite](https://github.com/nballou) webpage.
