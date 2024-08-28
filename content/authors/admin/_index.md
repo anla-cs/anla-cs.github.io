@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research assistant 
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,9 @@ bio: <short bio>
 
 # Interests to show in About widget
 interests:
-  - <interests>
+  - Algorithms and data structures
+  - Computational geometry
+  - Data science
 
 # Education to show in About widget
 education: 
