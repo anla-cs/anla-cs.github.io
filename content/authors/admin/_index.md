@@ -43,19 +43,19 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 # Alternatively, use `google-scholar` icon from `ai` icon pack
-# social:
-  # - icon: github
-  #   icon_pack: fab
-  #   link: <link>
-  #   display:
-  #     header: true
-  # - icon: email
-  #   icon_pack: fab
-  #   link: mailto:anla@umass.edu
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: <link>
-  #     # files/resume/resume-simon-gravelle.pdf
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/anla11
+    display:
+      header: true
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:anla@umass.edu
+  - icon: cv
+    icon_pack: ai
+    link: files/AnLa-CS.pdf
+      # files/resume/resume-simon-gravelle.pdf
 
 # Highlight the author in author lists? (true/false)
 # highlight_name: true
