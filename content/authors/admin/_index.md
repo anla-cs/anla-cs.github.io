@@ -75,7 +75,7 @@ I'm An La, a Ms/PhD student at [UMass Amherst/Theory Group](https://groups.cs.um
 - **La, A.**, Le, H. (2024, August). New weighted additive spanners.
 [https://arxiv.org/abs/2408.14638](https://arxiv.org/abs/2408.14638)
 
-<!-- - **La, A.**, Vo, P., \& Vu, T. (2019, July). Adaptive Collaborative Filtering for Recommender System. In International Conference on Conceptual Structures (pp. 117-130). Springer, Cham. [https://doi.org/10.1007/978-3-030-23182-8_9](https://doi.org/10.1007/978-3-030-23182-8\_9) -->
+- **La, A.**, Vo, P., \& Vu, T. (2019, July). Adaptive Collaborative Filtering for Recommender System. In International Conference on Conceptual Structures (pp. 117-130). Springer, Cham. [https://doi.org/10.1007/978-3-030-23182-8_9](https://doi.org/10.1007/978-3-030-23182-8\_9)
 
 <!-- - La, A. N. T., Nguyen, D. P., Pham, N. M., \& Vu, Q. H. (2018). Multi-modal video retrieval using Dilated Pyramidal Residual network. Science and Technology Development Journal-Natural Sciences, 2(5), 138-143.
 [https://doi.org/10.32508/stdjns.v2i5.789](https://doi.org/10.32508/stdjns.v2i5.789).
