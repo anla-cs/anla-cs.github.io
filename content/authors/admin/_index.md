@@ -74,7 +74,7 @@ Previously, I worked as a data scientist in companies (FPT Telecom, FPT Group, V
 - **La, A.**, Le, H. (2024, August). Dynamic Locality Sensitive Orderings in Doubling Metrics.
 [https://arxiv.org/abs/2408.14617](https://arxiv.org/abs/2408.14617).
 
-- **La, A.**, Le, H. (2024, August). New weighted additive spanners.
+- **La, A.**, Le, H. (2024, August). New Weighted Additive Spanners.
 [https://arxiv.org/abs/2408.14638](https://arxiv.org/abs/2408.14638).
 
 - **La, A.**, Vo, P., \& Vu, T. (2019, July). Adaptive Collaborative Filtering for Recommender System. In International Conference on Conceptual Structures (pp. 117-130). Springer, Cham. [https://doi.org/10.1007/978-3-030-23182-8_9](https://doi.org/10.1007/978-3-030-23182-8\_9).
