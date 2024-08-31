@@ -63,7 +63,8 @@ social:
 ### About me
 
 I'm An La, a Ms/PhD student at [UMass Amherst/Theory Group](https://groups.cs.umass.edu/theory/). I'm working under the supervision of [Dr. Hung Le](https://hunglvosu.github.io/) mainly on computational geometry and dynamic data structures. I'm also interested in online algorithms with machine learning advice. 
-Previously, I worked as data scientist in companies (FPT Telecom, FPT Group, VN, and PrimeData.AI, VN) on recommender systems and algorithmic marketing problems. I earned my B.S. degree in Information Technology (honors program) from Vietnam National University Ho Chi Minh City, University of Science (VNU-HCMUS). 
+
+Previously, I worked as a data scientist in companies (FPT Telecom, FPT Group, VN, and PrimeData.AI, VN) on recommender systems and algorithmic marketing problems. I earned my B.S. degree in Information Technology (honors program) from Vietnam National University Ho Chi Minh City, University of Science (VNU-HCMUS). 
 <!-- I also worked as a data scientist in R&D labs in companies (FPT Telecom, FPT Group, VN, and PrimeData.AI, VN) on recommender systems and algorithmic marketing problems. My research topic included (1) collaborative-filtering models, evaluation metrics on recommender systems, (2) probabilistic programming and Bayesian machine learning. See my [CV](files/AnLa-CS.pdf) for more details. -->
 
 <!-- I'm curious in models and algorithms for Data Science, such as randomized/streaming/sketching algorithms, mechanism design in game theory, probabilistic models. -->
