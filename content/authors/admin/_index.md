@@ -62,9 +62,11 @@ social:
 ---
 ### About me
 
-I'm An La, a Ms/PhD student at [UMass Amherst/Theory Group](https://groups.cs.umass.edu/theory/). I'm working under the supervision of [Dr. Hung Le](https://hunglvosu.github.io/) mainly on computational geometry and dynamic data structures. I'm also interested in online algorithms with machine learning advice. 
+I'm An La, a Ms/PhD student at [UMass Amherst/Theory Group](https://groups.cs.umass.edu/theory/). I'm working under the supervision of [Dr. Hung Le](https://hunglvosu.github.io/) mainly on computational geometry and dynamic data structures. I'm also interested in 
+online algorithms with machine learning advice. 
+Previously, I earned my B.S. degree in Information Technology (honors program) from Vietnam National University Ho Chi Minh City, University of Science (VNU-HCMUS).
 
-Previously, I worked as a data scientist in companies (FPT Telecom, FPT Group, VN, and PrimeData.AI, VN) on recommender systems and algorithmic marketing problems. I earned my B.S. degree in Information Technology (honors program) from Vietnam National University Ho Chi Minh City, University of Science (VNU-HCMUS). 
+<!-- Previously, I worked as a data scientist in companies (FPT Telecom, FPT Group, VN, and PrimeData.AI, VN) on recommender systems and algorithmic marketing problems. I earned my B.S. degree in Information Technology (honors program) from Vietnam National University Ho Chi Minh City, University of Science (VNU-HCMUS). --> 
 <!-- I also worked as a data scientist in R&D labs in companies (FPT Telecom, FPT Group, VN, and PrimeData.AI, VN) on recommender systems and algorithmic marketing problems. My research topic included (1) collaborative-filtering models, evaluation metrics on recommender systems, (2) probabilistic programming and Bayesian machine learning. See my [CV](files/AnLa-CS.pdf) for more details. -->
 
 <!-- I'm curious in models and algorithms for Data Science, such as randomized/streaming/sketching algorithms, mechanism design in game theory, probabilistic models. -->
@@ -77,7 +79,7 @@ Previously, I worked as a data scientist in companies (FPT Telecom, FPT Group, V
 - **La, A.**, Le, H. (2024, August). New Weighted Additive Spanners.
 [https://arxiv.org/abs/2408.14638](https://arxiv.org/abs/2408.14638).
 
-- <!-- **La, A.**, Vo, P., \& Vu, T. (2019, July). Adaptive Collaborative Filtering for Recommender System. In International Conference on Conceptual Structures (pp. 117-130). Springer, Cham. [https://doi.org/10.1007/978-3-030-23182-8_9](https://doi.org/10.1007/978-3-030-23182-8\_9). -->
+- **La, A.**, Vo, P., \& Vu, T. (2019, July). Adaptive Collaborative Filtering for Recommender System. In International Conference on Conceptual Structures (pp. 117-130). Springer, Cham. [https://doi.org/10.1007/978-3-030-23182-8_9](https://doi.org/10.1007/978-3-030-23182-8\_9).
 
 <!-- - La, A. N. T., Nguyen, D. P., Pham, N. M., \& Vu, Q. H. (2018). Multi-modal video retrieval using Dilated Pyramidal Residual network. Science and Technology Development Journal-Natural Sciences, 2(5), 138-143.
 [https://doi.org/10.32508/stdjns.v2i5.789](https://doi.org/10.32508/stdjns.v2i5.789).

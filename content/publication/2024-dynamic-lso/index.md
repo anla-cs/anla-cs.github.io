@@ -3,7 +3,7 @@ title: "Dynamic Locality Sensitive Orderings in Doubling Metrics."
 date: 2024-08-26
 publishDate:  2024-08-26
 authors: ["**An La**", "Hung Le"]
-publication_types: ["2"]
+publication_types: []
 abstract: ""
 featured: true
 publication: ""
