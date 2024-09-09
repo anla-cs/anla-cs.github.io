@@ -7,9 +7,9 @@ main:
   - name: Home
     url: '/index.html'
     weight: 40
-  # - name: Publications
-  #   url: '/publication.html'
-  #   weight: 10
+  - name: Publications
+    url: '/publication.html'
+    weight: 10
   # - name: News
   #   url: '/news.html'
   #   weight: 10
