@@ -6,7 +6,7 @@
 main:
   - name: Home
     url: '/index.html'
-    weight: 20
+    weight: 40
   # - name: Publications
   #   url: '/publication.html'
   #   weight: 10
