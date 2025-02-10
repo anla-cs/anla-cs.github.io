@@ -54,7 +54,7 @@ social:
     link: mailto:anla@umass.edu
   - icon: cv
     icon_pack: ai
-    link: files/AnLa-CS.pdf
+    link: files/AnLa.pdf
       # files/resume/resume-simon-gravelle.pdf
 
 # Highlight the author in author lists? (true/false)
