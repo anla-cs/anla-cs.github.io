@@ -1,6 +1,6 @@
 ---
-date: 2022-07-15
-publishDate: 2022-07-20
+date: 2024-07-15
+publishDate: 2024-07-20
 external_link: ""
 slides: ""
 summary: "DIMACS Tutorial on Fine-grained Complexity"
