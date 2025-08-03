@@ -2,7 +2,7 @@
 active: true
 widget: portfolio
 headless: true
-weight: 100
+weight: 60
 title: Events
 subtitle: ''
 content:
