@@ -3,7 +3,7 @@ date: 2025-06-23
 publishDate: 2025-06-30
 external_link: ""
 slides: ""
-summary: I attended STOC 2025 from June 23 to June 27, 2025 in Prague, Czech Republic. I also presented my paper [Dynamic Locality Sensitive Orderings in Doubling Metrics](https://anla-cs.github.io/publications/2025-dynamic-lso.html).
+summary: ""
 tags:
 - Work
 title: Attended STOC 2025, June 23-27 in Prague, Czech Republic.
@@ -19,4 +19,4 @@ links:
 type: "news"
 layout: "single"
 ---
-I attended STOC 2025 from June 23 to June 27, 2025 in Prague, Czech Republic. I also presented my paper [Dynamic Locality Sensitive Orderings in Doubling Metrics](https://anla-cs.github.io/publications/2025-dynamic-lso.html) here.
+I attended STOC 2025 from June 23 to June 27, 2025 in Prague, Czech Republic; also presented my paper [Dynamic Locality Sensitive Orderings in Doubling Metrics](https://anla-cs.github.io/publications/2025-dynamic-lso.html) here.
