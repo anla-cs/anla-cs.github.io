@@ -6,7 +6,7 @@
 # main:
   - name: Home
     url: '/index.html'
-    weight: 60
+    weight: 10
   # - name: Event
   #   url: '/event.html'
   #   weight: 20
