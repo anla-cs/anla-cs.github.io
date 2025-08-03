@@ -3,16 +3,16 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
+# main:
   - name: Home
     url: '/index.html'
     weight: 60
-  - name: Event
-    url: '/event.html'
-    weight: 20
-  - name: Publications
-    url: '/publication.html'
-    weight: 20
+  # - name: Event
+  #   url: '/event.html'
+  #   weight: 20
+  # - name: Publications
+  #   url: '/publication.html'
+  #   weight: 20
   # - name: News
   #   url: '/news.html'
   #   weight: 10
