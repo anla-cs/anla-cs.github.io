@@ -10,8 +10,8 @@ main:
   - name: Publications
     url: '/publications.html'
     weight: 20
-  - name: Event
-    url: '/news.html'
+  - name: Events
+    url: '/events.html'
     weight: 30
   # - name: News
   #   url: '/news.html'
