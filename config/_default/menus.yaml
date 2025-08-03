@@ -20,7 +20,7 @@ main:
 #    url: '/blog/'
 #    weight: 60
  - name: CV
-   url: '/files/cv.pdf'
+   url: '/files/AnLa.pdf'
    weight: 70
   
 # Sub-home menu
