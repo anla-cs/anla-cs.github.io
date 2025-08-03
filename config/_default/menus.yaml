@@ -4,24 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # - name: Home
-  #   url: '/index.html'
-  #   weight: 10
-  # - name: Event
-  #   url: '/event.html'
-  #   weight: 20
-  # - name: Publications
-  #   url: '/publication.html'
-  #   weight: 20
+  - name: Home
+    url: '/index.html'
+    weight: 10
+  - name: Publications
+    url: '/publication.html'
+    weight: 20
+  - name: Event
+    url: '/event.html'
+    weight: 30
   # - name: News
   #   url: '/news.html'
   #   weight: 10
-#  - name: Blog
-#    url: '/blog/'
-#    weight: 60
- - name: CV
-   url: 'https://anla-cs.github.io/files/AnLa.pdf'
-   weight: 70
+  # - name: Blog
+  #   url: '/blog/'
+  #   weight: 60
+  - name: CV
+    url: 'https://anla-cs.github.io/files/AnLa.pdf'
+    weight: 40
   
 # Sub-home menu
 #  - name: About
