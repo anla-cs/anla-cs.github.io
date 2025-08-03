@@ -3,7 +3,7 @@ title: "New Weighted Additive Spanners"
 date: 2024-08-26
 publishDate:  2024-08-26
 authors: ["**An La**", "Hung Le"]
-publication_types: []
+publication_types: ["2"]
 abstract: ""
 featured: true
 publication: ""
