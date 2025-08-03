@@ -1,25 +1,19 @@
 ---
-date: 2025-06-15
-publishDate: 2025-06-15
-external_link: ""
-image:
-  caption: CNRS logo
-  focal_point: Smart
-slides: example
-summary: I will be mainly working on the separation of fluid mixture using soft matter membrane, in LiPhy, Grenoble.
+date: 2025-06-23
+publishDate: 2025-06-23
+external_link: "https://acm-stoc.org/stoc2025/"
+slides: "[Slide](https://drive.google.com/file/d/1mijxn5OM5f3NXRYBvGDLPnx2kh4fZ2Zj/view?usp=sharing)"
+summary: Present my first publication at STOC 2025
 tags:
-- Personal
-title: I have obtained a position at French CNRS
+- Work
+title: Present my work at STOC 2025, June 23-27, 2025 in Prague, Czech Republic.
 links:
   - icon_pack: fas
     icon: scroll
-    name: LIPhy
-    url: 'https://liphy.univ-grenoble-alpes.fr/'
-  - icon_pack: fas
-    icon: scroll
-    name: CNRS
-    url: 'https://www.cnrs.fr/fr'
+    name: STOC 2025
+    url: 'https://acm-stoc.org/stoc2025/'
 type: "news"
 layout: "single"
 ---
-In the continuity of my MSCA fellowship, I've been hired by the French CNRS (Section 11) as a tenured full time researcher at [LIPhy](https://liphy.univ-grenoble-alpes.fr/) (UGA).
+I attended STOC 2025 from June 23 to June 27, 2025 in Prague, Czech Republic. I also presented my paper [Dynamic Locality Sensitive Orderings in Doubling Metrics
+](https://dl.acm.org/doi/10.1145/3717823.3718209). 
