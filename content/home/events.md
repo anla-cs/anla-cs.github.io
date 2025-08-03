@@ -3,12 +3,12 @@ active: true
 widget: portfolio
 headless: true
 weight: 100
-title: News
+title: Events
 subtitle: ''
 content:
   page_type: news
   folders:
-    - news
+    - events
   # filter_default: 0
   # filter_button:
   #   - name: All
