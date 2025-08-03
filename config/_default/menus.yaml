@@ -20,7 +20,7 @@ main:
 #    url: '/blog/'
 #    weight: 60
  - name: CV
-   url: '/files/AnLa.pdf'
+   url: 'https://anla-cs.github.io/files/anla.pdf'
    weight: 70
   
 # Sub-home menu
