@@ -14,3 +14,6 @@ links:
     name: https://stdjns.scienceandtechnology.com.vn/index.php/stdjns/article/view/789
     url: 'https://stdjns.scienceandtechnology.com.vn/index.php/stdjns/article/view/789'
 ---
+
+**Abstract**:
+Pyramidal Residual Network achieved high accuracy in image classification tasks. However, there is no previous work on sequence recognition tasks using this model. We presented how to extend its architecture to form Dilated Pyramidal Residual Network (DPRN), for this long-standing research topic and evaluate it on the problems of automatic speech recognition and optical character recognition. Together, they formed a multi-modal video retrieval framework for Vietnamese Broadcast News. Experiments were conducted on caption images and speech frames extracted from VTV broadcast videos. Results showed that DPRN was not only end-to-end trainable but also performed well in sequence recognition tasks.
