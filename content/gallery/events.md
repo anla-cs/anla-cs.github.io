@@ -6,7 +6,7 @@ weight: 60
 title: Events
 subtitle: ''
 content:
-  page_type: news
+  page_type: event
   folders:
     - events
   # filter_default: 0
