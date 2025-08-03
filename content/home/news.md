@@ -7,6 +7,8 @@ title: News
 subtitle: ''
 content:
   page_type: news
+  folders:
+    - news
   # filter_default: 0
   # filter_button:
   #   - name: All
