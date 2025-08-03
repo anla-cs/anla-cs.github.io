@@ -6,10 +6,13 @@
 main:
   - name: Home
     url: '/index.html'
-    weight: 100
-  # - name: Publications
-  #   url: '/publication.html'
-  #   weight: 20
+    weight: 60
+  - name: Event
+    url: '/event.html'
+    weight: 20
+  - name: Publications
+    url: '/publication.html'
+    weight: 20
   # - name: News
   #   url: '/news.html'
   #   weight: 10
