@@ -6,7 +6,7 @@ slides: "[Slide](https://drive.google.com/file/d/1mijxn5OM5f3NXRYBvGDLPnx2kh4fZ2
 summary: Present my first publication at STOC 2025
 tags:
 - Work
-title: Present my work at STOC 2025, June 23-27, 2025 in Prague, Czech Republic.
+title: Attend STOC 2025, June 23-27, 2025 in Prague, Czech Republic.
 links:
   - icon_pack: fas
     icon: scroll
