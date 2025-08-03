@@ -10,13 +10,9 @@ tags:
 title: Attend STOC 2025, June 23-27, 2025 in Prague, Czech Republic.
 links:
   - icon_pack: fas
-    icon: fa-file-powerpoint
+    icon: scroll
     name: Slide
     url: 'https://drive.google.com/file/d/1mijxn5OM5f3NXRYBvGDLPnx2kh4fZ2Zj/view?usp=sharing'
-  - icon_pack: fas
-    icon: fa-globe
-    name: STOC 2025
-    url: 'https://acm-stoc.org/stoc2025/'
 type: "news"
 layout: "single"
 ---
