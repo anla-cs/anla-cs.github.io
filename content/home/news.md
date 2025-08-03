@@ -2,21 +2,21 @@
 active: true
 widget: portfolio
 headless: true
-weight: 20
+weight: 60
 title: News
 subtitle: ''
 content:
   page_type: news
-  filter_default: 0
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Job
-      tag: Job
-    - name: Personal
-      tag: Personal
-    - name: Outreach
-      tag: Outreach
+  # filter_default: 0
+  # filter_button:
+  #   - name: All
+  #     tag: '*'
+  #   - name: Job
+  #     tag: Job
+  #   - name: Personal
+  #     tag: Personal
+  #   - name: Outreach
+  #     tag: Outreach
   count: 3
   offset: 0
 design:
