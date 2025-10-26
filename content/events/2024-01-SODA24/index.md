@@ -3,6 +3,7 @@ date: 2024-01-07
 publishDate: 2024-01-20
 external_link: ""
 slides: ""
+summary: "ACM-SIAM Symposium on Discrete Algorithms 2024 in Alexandria, Virginia, USA"
 tags:
 - Work
 title: Attended SODA 2024, January 7-10, in Alexandria, Virginia, USA.

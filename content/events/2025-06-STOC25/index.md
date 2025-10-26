@@ -3,7 +3,7 @@ date: 2025-06-23
 publishDate: 2025-06-30
 external_link: ""
 slides: ""
-summary: ""
+summary: "57th Annual ACM Symposium on Theory of Computing June 23-27, 2025 in Prague, Czech Republic."
 tags:
 - Work
 title: Attended STOC 2025, June 23-27 in Prague, Czech Republic.
