@@ -1,8 +1,8 @@
 ---
 title: "Forecasting Time Series with LLMs via Patch-Based Prompting and Decomposition
 "
-date: 2025-06-15
-publishDate:  2025-06-15
+date: 2025-09-22
+publishDate:  2025-09-22
 authors: ["Mayank Bumb", "Anshul Vemulapalli", "Sri Harsha Vardhan Prasad Jella", "Anish Gupta", "**An La**", "Ryan A. Rossi", "Hongjie Chen", "Franck Dernoncourt", "Nesreen K. Ahmed", "Yu Wang"]
 publication_types: ["2"]
 abstract: " "
