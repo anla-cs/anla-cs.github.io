@@ -4,7 +4,7 @@ date: 2025-08-15
 publishDate:  2025-08-15
 authors: ["**An La**", "Hung Le", "Shay Solomon", "Cuong Than", "Vinayak", "Shuang Yang", "Tianyi Zhang"]
 publication_types: ["2"]
-abstract: ""
+abstract: "To appear in SoCG'26."
 featured: true
 publication: ""
 links:
